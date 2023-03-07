@@ -120,6 +120,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [ Dummy project to try out new tools for me like Docker and RabbitMQ](https://github.com/jordi-chacon/dummy-dockerized-microservices)
 * [ OAuth2 authentication server designed to work in a docker-based microservices architecture.](https://github.com/nielskrijger/auth-server)
 
+### MicroServices interview Questions
+* [50 Microservices Design and Architecture Interview Questions for Experienced Java Programmers](https://medium.com/javarevisited/50-microservices-interview-questions-for-java-programmers-70a4a68c4349)
+
 ### Library and Tools
 
 
