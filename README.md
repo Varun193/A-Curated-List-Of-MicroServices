@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Circuit Breaker from Martin Fowler](http://martinfowler.com/bliki/CircuitBreaker.html)
 * [Circuit Breaker ~ netflix](http://doc.akka.io/docs/akka/snapshot/common/circuitbreaker.html)
 * [Circuit Breaker open/closed/half-open](https://blog.bitsrc.io/circuit-breaker-pattern-in-microservices-26bf6e5b21ff)
+* [Circuit Breaker fallback implementation](https://www.credera.com/insights/circuit-breaker-pattern-in-spring-boot)
 
 #### Deployment patterns
 
