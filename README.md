@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Circuit Breaker fallback implementation](https://www.credera.com/insights/circuit-breaker-pattern-in-spring-boot)
 * [Hystrix Circuit Breaker — How To Set It Up Properly](https://medium.com/@darekmydlarz/hystrix-circuit-breaker-how-to-set-it-up-properly-84c75cfbe3ee#:~:text=The%20default%20value%20is%205,opened%20for%20consecutive%205%20seconds.)
 * [How to Use Feign Client in Spring Boot](https://javatodev.com/how-to-use-feign-client-in-spring-boot/#comments)
+* [Feign Client to Call Another Microservice](https://www.appsdeveloperblog.com/feign-client-to-call-another-microservice/)
 
 #### Deployment patterns
 
