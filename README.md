@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Hystrix Circuit Breaker — How To Set It Up Properly](https://medium.com/@darekmydlarz/hystrix-circuit-breaker-how-to-set-it-up-properly-84c75cfbe3ee#:~:text=The%20default%20value%20is%205,opened%20for%20consecutive%205%20seconds.)
 * [How to Use Feign Client in Spring Boot](https://javatodev.com/how-to-use-feign-client-in-spring-boot/#comments)
 * [Feign Client to Call Another Microservice](https://www.appsdeveloperblog.com/feign-client-to-call-another-microservice/)
+* [Introduction to Spring Cloud Load Balancer](https://www.baeldung.com/spring-cloud-load-balancer#:~:text=Load%20balancing%20is%20the%20process,instance%20to%20send%20its%20request.)
 
 #### Deployment patterns
 
