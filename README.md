@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Introduction to Spring Cloud Load Balancer](https://www.baeldung.com/spring-cloud-load-balancer#:~:text=Load%20balancing%20is%20the%20process,instance%20to%20send%20its%20request.)
 * [API Gateway Pattern](https://medium.com/design-microservices-architecture-with-patterns/api-gateway-pattern-8ed0ddfce9df)
 * [Spring Cloud Gateway offical doc](https://cloud.spring.io/spring-cloud-gateway/reference/html/)
+* [Microservices Config Server — Centralized Configuration with Spring Cloud](https://medium.com/@ijayakantha/microservices-centralized-configuration-with-spring-cloud-f2a1f7b78cc2)
 
 #### Deployment patterns
 
