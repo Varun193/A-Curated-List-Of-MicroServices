@@ -33,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Spring Cloud Gateway offical doc](https://cloud.spring.io/spring-cloud-gateway/reference/html/)
 * [Microservices Config Server — Centralized Configuration with Spring Cloud](https://medium.com/@ijayakantha/microservices-centralized-configuration-with-spring-cloud-f2a1f7b78cc2)
 
+
 #### Deployment patterns
 
 * [Multiple service instances per host](http://microservices.io/patterns/deployment/multiple-services-per-host.html)
@@ -134,6 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### MicroServices interview Questions
 * [50 Microservices Design and Architecture Interview Questions for Experienced Java Programmers](https://medium.com/javarevisited/50-microservices-interview-questions-for-java-programmers-70a4a68c4349)
+* [Microservices Interview Questions](https://www.interviewbit.com/microservices-interview-questions/)
 
 ### Library and Tools
 
