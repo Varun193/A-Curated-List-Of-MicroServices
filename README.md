@@ -32,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [API Gateway Pattern](https://medium.com/design-microservices-architecture-with-patterns/api-gateway-pattern-8ed0ddfce9df)
 * [Spring Cloud Gateway offical doc](https://cloud.spring.io/spring-cloud-gateway/reference/html/)
 * [Microservices Config Server — Centralized Configuration with Spring Cloud](https://medium.com/@ijayakantha/microservices-centralized-configuration-with-spring-cloud-f2a1f7b78cc2)
+* [What is SAGA Pattern in Microservice Architecture? Which Problem does it solve?](https://medium.com/javarevisited/what-is-saga-pattern-in-microservice-architecture-which-problem-does-it-solve-de45d7d01d2b#:~:text=The%20SAGA%20(or%20Saga)%20pattern,is%20a%20separate%20database%20operation.)
 
 
 #### Deployment patterns
