@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [API Gateway from Chris Richardson](http://microservices.io/patterns/apigateway.html)
 * [Bounded Context from Martin Fowler](http://martinfowler.com/bliki/BoundedContext.html)
 * [Circuit Breaker from Martin Fowler](http://martinfowler.com/bliki/CircuitBreaker.html)
+* [Spring Cloud: Service Discovery With Eureka](https://medium.com/swlh/spring-cloud-service-discovery-with-eureka-16f32068e5c7)
 * [Circuit Breaker ~ netflix](http://doc.akka.io/docs/akka/snapshot/common/circuitbreaker.html)
 * [Circuit Breaker open/closed/half-open](https://blog.bitsrc.io/circuit-breaker-pattern-in-microservices-26bf6e5b21ff)
 * [Circuit Breaker fallback implementation](https://www.credera.com/insights/circuit-breaker-pattern-in-spring-boot)
