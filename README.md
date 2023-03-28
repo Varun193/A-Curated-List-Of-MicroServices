@@ -7,8 +7,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Origin of Microservice
 
 * [Microservices from Martin Fowler](http://martinfowler.com/articles/microservices.html)
-* [Microservices from Martin Fowler In Chinese](http://blog.csdn.net/wurenhai/article/details/37659335)
-
 
 ### Architectural Patterns(similar to book software-architecture-patterns from O`REILLY )
 
